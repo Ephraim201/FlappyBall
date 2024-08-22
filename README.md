@@ -1,7 +1,10 @@
 # FlappyBall
 Proyecto hecho en Unity. Inspirado en el clasico juego de FlappyBird, salvo que en esta ocacion controlas un cuadrado saltante(me gustan los titulos incoherentes :) )
 
-![Demostración del Juego](Assets/flapyball.gif)
+![Demostración del Juego](Assets/flappyball.gif)
+
+# Probar el juego
+[FlappyBall](https://simmer.io/@Ephraim201/obviusly-flappyball)
 
 # Proyecto Unity - Versión Construida
 
