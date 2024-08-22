@@ -4,7 +4,7 @@ Proyecto hecho en Unity. Inspirado en el clasico juego de FlappyBird, salvo que 
 ![Demostración del Juego](Assets/flappyball.gif)
 
 # Probar el juego
-[FlappyBall](https://simmer.io/@Ephraim201/obviusly-flappyball)
+Puedes probar Flappy Ball en: [simmer.io FlappyBall](https://simmer.io/@Ephraim201/obviusly-flappyball)
 
 # Proyecto Unity - Versión Construida
 
